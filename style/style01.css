@@ -1,0 +1,12 @@
+body {
+    margin-top: -56vh;
+    padding: 0;
+    height: 200vh; /* Untuk memberikan efek scroll */
+    background-image: url('Gh0fkz9L.jpeg');
+    background-size: cover; /* Agar gambar menutupi seluruh background */
+    background-attachment: fixed; /* Gambar tetap */
+    background-position: center; /* Posisikan gambar di tengah */
+    top: -0vh;
+    background-repeat: no-repeat; /* Jangan ulang gambar */
+    background-size: 200px 300px; /* Gambar akan berukuran 300px lebar dan 200px tinggi */
+}
